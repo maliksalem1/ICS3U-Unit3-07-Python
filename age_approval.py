@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Created by: Kyanh Pham
+# Created by: maliksalem1
 # Created on: Oct 2022
 # This program sees if grandma approves of your age.
 
